@@ -12,6 +12,10 @@
 	<version>1.0</version>
 	<artifactId>spring-cloud-stream-sink-gemfire</artifactId>
 
+	<properties>
+		<java.version>1.8</java.version>
+	</properties>
+	
 	<repositories>
 		<repository>
 			<id>spring-snapshot</id>
